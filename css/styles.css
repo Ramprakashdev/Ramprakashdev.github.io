@@ -10993,6 +10993,15 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 
 .bgc-color {
+  background: rgb(176, 197, 207);
+  background: radial-gradient(
+    circle,
+    rgba(176, 197, 207, 1) 35%,
+    rgba(255, 255, 255, 1) 100%
+  );
+}
+
+<<<<<<< HEAD .bgc-color {
   background: rgb(102, 137, 210);
   background: radial-gradient(
     circle,
@@ -11001,19 +11010,7 @@ section#contact form#contactForm :-ms-input-placeholder {
   );
 }
 
-<<<<<<< HEAD
-.bgc-color {
-  background: rgb(102, 137, 210);
-  background: radial-gradient(
-    circle,
-    rgba(102, 137, 210, 1) 7%,
-    rgba(36, 64, 122, 1) 64%
-  );
-}
-
-=======
->>>>>>> parent of 8e83aa3... minor corrections
-.texts-align-centre {
+=======>>>>>>>parent of 8e83aa3... minor corrections .texts-align-centre {
   text-align: center;
 }
 
