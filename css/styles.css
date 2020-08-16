@@ -10992,6 +10992,15 @@ section#contact form#contactForm :-ms-input-placeholder {
   );
 }
 
+.bgc-color {
+  background: rgb(77, 149, 156);
+  background: radial-gradient(
+    circle,
+    rgba(77, 149, 156, 1) 11%,
+    rgba(124, 184, 186, 1) 64%
+  );
+}
+
 .texts-align-centre {
   text-align: center;
 }
