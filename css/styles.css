@@ -10498,7 +10498,7 @@ img::-moz-selection {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #212529;
+  background-color: #222d3b;
 }
 #mainNav .navbar-toggler {
   padding: 0.75rem;
@@ -10576,7 +10576,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  /* background-image: url("../assets/img/header-bgg1.jpg"); */
+  background-image: url("../assets/img/cover.jpeg");
   background-color: black;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -10620,6 +10620,13 @@ header.masthead .masthead-heading {
     margin-bottom: 4rem;
   }
 }
+/* 
+#portfolio {
+  background-image: url("../assets/img/portfolio/port_bg.jpg");
+
+  background-size: cover;
+  background-repeat: no-repeat;
+} */
 
 #portfolio .portfolio-item {
   max-width: 25rem;
@@ -10977,9 +10984,18 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 
 .bgs-color {
-  background-color: #f7f7f7;
+  background: rgb(245, 245, 245);
+  background: radial-gradient(
+    circle,
+    rgba(245, 245, 245, 1) 44%,
+    rgba(169, 169, 169, 1) 100%
+  );
 }
 
 .texts-align-centre {
   text-align: center;
+}
+
+.button-color {
+  background-color: #ffb700;
 }
