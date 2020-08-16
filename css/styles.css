@@ -10993,11 +10993,11 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 
 .bgc-color {
-  background: rgb(77, 149, 156);
+  background: rgb(102, 137, 210);
   background: radial-gradient(
     circle,
-    rgba(77, 149, 156, 1) 11%,
-    rgba(124, 184, 186, 1) 64%
+    rgba(102, 137, 210, 1) 7%,
+    rgba(36, 64, 122, 1) 64%
   );
 }
 
