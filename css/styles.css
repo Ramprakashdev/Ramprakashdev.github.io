@@ -10992,6 +10992,7 @@ section#contact form#contactForm :-ms-input-placeholder {
   );
 }
 
+<<<<<<< HEAD
 .bgc-color {
   background: rgb(102, 137, 210);
   background: radial-gradient(
@@ -11001,6 +11002,8 @@ section#contact form#contactForm :-ms-input-placeholder {
   );
 }
 
+=======
+>>>>>>> parent of 8e83aa3... minor corrections
 .texts-align-centre {
   text-align: center;
 }
